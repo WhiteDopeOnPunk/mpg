@@ -1,5 +1,5 @@
 # Analyzing Fuel Economy
-Predicting MPG of a vehicle using a linear regression model. Success will be evaluated using r-squared and root mean square error scores over time as well as testing with some unseen, futuristic, and very different data compared to training set.
+Predicting MPG of a vehicle using a linear regression model. Success will be evaluated using r-squared and root mean square error scores over time as well as testing with some unseen, futuristic, and very different data compared to the training set.
 
 If you're curious about what goes into fuel economy, this should provide some insight on how it all works.
 
